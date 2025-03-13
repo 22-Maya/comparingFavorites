@@ -10,7 +10,7 @@ Comparing Favorites is a Python project that analyzes and categorizes my favorit
 ### 🔹 Technologies Used
 - Python
 - Pandas
-- Matplotlib / Seaborn (if used for visualization)
+- Matplotlib
 
 ### 🔹 How It Works
 - Loads a dataset of favorite movies and their genres
