@@ -3,9 +3,9 @@
 Comparing Favorites is a Python project that analyzes and categorizes my favorite movies based on their respective genres. Using Python libraries, I explored patterns in my movie preferences, gaining insights into trends and correlations between genres.
 
 ### 🔹 Features
-📌 Movie Genre Analysis – Compares my favorite movies and their associated genres
-📊 Data Insights – Identifies trends in my movie preferences
-🐍 Python-Powered – Uses Python libraries for data analysis
+- 📌 Movie Genre Analysis – Compares my favorite movies and their associated genres
+- 📊 Data Insights – Identifies trends in my movie preferences
+- 🐍 Python-Powered – Uses Python libraries for data analysis
 
 ### 🔹 Technologies Used
 - Python
