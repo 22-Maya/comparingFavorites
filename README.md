@@ -17,5 +17,5 @@ Comparing Favorites is a Python project that analyzes and categorizes my favorit
 - Processes and categorizes the data using Python
 - Visualizes genre trends and relationships
 
-###  Attributions
+### 🔹 Attributions
 The rotten_tomatoes_movies.csv file contains data scraped from Rotten Tomatoes by Stefano Leone. The data used was modified to make usability easier.
